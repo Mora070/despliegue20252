@@ -1,0 +1,14 @@
+com\jdc\misegundaapi\service\Implement\EstudianteServiceImplement.class
+com\jdc\misegundaapi\MisegundaapiApplication.class
+com\jdc\misegundaapi\repository\EstudianteRepository.class
+com\jdc\misegundaapi\entity\EstudianteEntity.class
+com\jdc\misegundaapi\rest\EstudianteRest.class
+com\jdc\misegundaapi\DTO\SQL1Universidad.class
+com\jdc\misegundaapi\repository\UniversidadRepository.class
+com\jdc\misegundaapi\service\IUniversidadService.class
+com\jdc\misegundaapi\entity\VehiculoEntity.class
+com\jdc\misegundaapi\service\IEstudianteService.class
+com\jdc\misegundaapi\DTO\EstudianteDTO.class
+com\jdc\misegundaapi\entity\UniversidadEntity.class
+com\jdc\misegundaapi\rest\UniversidadRest.class
+com\jdc\misegundaapi\service\Implement\UniversidadServiceImplement.class
